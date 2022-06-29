@@ -1,3 +1,6 @@
+import sys
+sys.path.insert(1, './')
+
 from datetime import datetime
 
 from engine.willoughby_engine import WilloughbyEngine
